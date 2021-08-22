@@ -1,7 +1,7 @@
 # Async-Java
 ### Plugin for Intellij IDEA for adding async functions to java
 
-# Сервисы
+# Services
 - [Trello](https://trello.com/b/LnWqeyCX/java)
 
-# Документация
+# Documentation
